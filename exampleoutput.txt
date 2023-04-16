@@ -1,0 +1,7 @@
+python3 Basic-FTPcrackerV0.1.py                                                            1 ✘  34s   base  
+FTP server: test.rebex.net
+Username: demo
+Path to password list: john.txt
+Still trying... 530 User cannot log in.
+Still trying... 530 User cannot log in.
+Success! The password is: password
